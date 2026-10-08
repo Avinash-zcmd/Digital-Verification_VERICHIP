@@ -1,6 +1,6 @@
 # Digital-Verification_VERICHIP
 ## Description
-Functional Verification testcase built for a FSM based chip design know as VERICHIP, testing the Register files, ALUs, and statemachines.
+Functional Verification testcase built for a FSM based chip design know as **VERICHIP**, testing the Register files, ALUs, and statemachines.
 
 ## Problem Statement
 Complex design are prone to hidden logic bugs in state transitions. This project ensures the design is functionally correct and stable. By testing all corner cases we achieve the correct functionality of the design and completed code coverage.
